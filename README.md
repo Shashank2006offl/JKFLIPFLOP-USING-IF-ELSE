@@ -42,9 +42,9 @@ step-6 Run the program. <br>
 
 **PROGRAM**
 
-Program for flipflops and verify its truth table in quartus using Verilog programming. 
-Developed by: Gurumurthy S
-RegisterNumber: 212223230066
+Program for flipflops and verify its truth table in quartus using Verilog programming. <br>
+Developed by: Gurumurthy S <br>
+RegisterNumber: 212223230066 <br>
 ```
 module JK_flipflop(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
@@ -88,3 +88,5 @@ endmodule
 
 
 **RESULTS**
+
+To Successfully verified JK flipflop using verilog and validating their functionality using their functional tables
